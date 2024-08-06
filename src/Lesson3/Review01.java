@@ -1,3 +1,4 @@
+package Lesson3;
 
 public class Review01 {
 //mainメソッドとtaxメソッドを切り分けて作成してください
